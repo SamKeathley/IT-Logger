@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changes hard drive on workstation 005",
+      "attention": false,
+      "date": "03-02-2020",
+      "tech": "Roy Trenneman"
+    },
+    {
+      "id": 2,
+      "message": "Workstation 007 not posting",
+      "attention": true,
+      "date": "03-02-2020",
+      "tech": "Maurice Moss"
+    },
+    {
+      "id": 3,
+      "message": "What am I even doing here on workstation 050",
+      "attention": false,
+      "date": "03-02-2020",
+      "tech": "Jen Barber"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Roy",
+      "lastName": "Trenneman"
+    },
+    {
+      "id": 2,
+      "firstName": "Maurice",
+      "lastName": "Moss"
+    },
+    {
+      "id": 3,
+      "firstName": "Jen",
+      "lastName": "Baker"
+    }
+  ]
+}
